@@ -1,4 +1,4 @@
-It began with a frustrating problem: teams at SupportFlow AI were trying to design chatbot conversations using spreadsheets, filling in rows and IDs that quickly became confusing and error-prone. You couldn’t really see the flow, and mistakes only showed up when users hit broken paths. That challenge sparked the idea to replace the spreadsheet with something more intuitive.
+It began with a frustrating problem: teams at SupportFlow I were trying to design chatbot conversations using spreadsheets, filling in rows and IDs that quickly became confusing and error-prone. You couldn’t really see the flow, and mistakes only showed up when users hit broken paths. That challenge sparked the idea to replace the spreadsheet with something more intuitive.
 
 So the solution took shape as a visual editor—a figma where each question becomes a card and connections between them form a clear, interactive map. Instead of memorizing IDs, managers could drag cards around, edit them directly, and even simulate the chatbot experience in a live preview. The goal was simple: make the entire conversation flow visible and easy to control.
 
